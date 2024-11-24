@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alkalami</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_flex</item>
+        <item>@font/roboto_mono</item>
+        <item>@font/roboto_serif_thin</item>
+        <item>@font/roboto_slab</item>
+        <item>@font/robotoreg</item>
+    </array>
+</resources>
