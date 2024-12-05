@@ -30,3 +30,8 @@ Android Studio for development.
 ![image](https://github.com/user-attachments/assets/26890635-a8a5-45b6-b445-49786d5900e6)
 ![image](https://github.com/user-attachments/assets/d9b6e59d-210f-4e17-a158-e61c3f2b3fb1)
 ![image](https://github.com/user-attachments/assets/b11a4f0b-fb06-4f03-bf1f-9b4d9221a9ba)
+
+ ## How to Use
+Clone the repository:
+```bash
+git clone https://github.com/YourUsername/ElectronicStore-AndroidApp.git
