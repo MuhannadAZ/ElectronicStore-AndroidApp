@@ -13,14 +13,14 @@ Java for app logic. 🖥️
 SQLite for the database. 📂
 Android Studio for development. 
 
-##Photos
+## Photos
 
-##Home page and Navigation  
+## Home page and Navigation  
 
 
 ![image](https://github.com/user-attachments/assets/191205ad-e0e2-4449-ab10-2983d4695d79)
 
-##Product categories  
+## Product categories  
 
 
 ![image](https://github.com/user-attachments/assets/d8328bf7-5a51-440a-a212-e03715183250)
