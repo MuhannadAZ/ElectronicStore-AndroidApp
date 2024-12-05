@@ -34,4 +34,4 @@ Android Studio for development.
  ## How to Use
 Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/ElectronicStore-AndroidApp.git
+git clone https://github.com/MuhannadAZ/ElectronicStore-AndroidApp.git
